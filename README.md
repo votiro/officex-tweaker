@@ -14,3 +14,5 @@ Copyright (C) 2020 officex-tweaker
   --help             Display this help screen.
 
   --version          Display version information.
+
+Example: `officex-tweaker.exe -i c:\temp\example.docx`
